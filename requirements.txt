@@ -6,4 +6,4 @@ Requests==2.32.3
 scikit_learn==1.2.1
 scipy==1.14.1
 SQLAlchemy==2.0.34
-yfinance==0.2.43
+yfinance==0.2.44
