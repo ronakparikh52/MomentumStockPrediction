@@ -1,4 +1,4 @@
-beautifulsoup4==4.13.4
+beautifulsoup4==4.13.5
 psycopg2==2.9.9
 Requests==2.32.3
 scikit_learn==1.6.1
